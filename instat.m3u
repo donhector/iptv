@@ -964,6 +964,10 @@ http://142.132.214.171:8080/felix_timDISCtr/28032020chang/816
 #EXTINF:-1 group-title="SPAIN", Gol Mundial 2 FHD
 http://142.132.214.171:8080/felix_timDISCtr/28032020chang/225000
 
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL OP1
+http://castlempire.site:8080/cliente3226/123456/238903
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/216707
 
 #EXTINF:-1 group-title="ARGENTINA",TV PUBLICA ARGENTINA HD
 http://castlempire.site:8080/cliente3226/123456/238689
