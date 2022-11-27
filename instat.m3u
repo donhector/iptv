@@ -1081,3 +1081,10 @@ http://arboltv.xyz:8080/jose/jose/124216
 http://arboltv.xyz:8080/jose/jose/124217
 #EXTINF:-1 group-title="ARGENTINA",TYC SPORTS INTERNACIONAL
 http://arboltv.xyz:8080/jose/jose/124218
+
+#EXTINF:-1 group-title="ARGENTINA",TYC Sports HD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451260
+#EXTINF:-1 group-title="ARGENTINA",Directv Sports 1 HD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26524
+#EXTINF:-1 group-title="ARGENTINA",Directv Sports + HD
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/103065
